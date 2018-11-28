@@ -1,0 +1,3 @@
+# Exercise 16 - Accessing Dictionary Items
+d = {'a': 1, 'b': 2}
+print(d['b'])
