@@ -1,0 +1,50 @@
+001 - # Exercise 1 - Variable Updating
+002 - # Exercise 2 - Naming Rules
+003 - # Exercise 3 - Compare vs Assign
+004 - # Exercise 4 - TypeError
+005 - # Exercise 5 - Sequence Indexing
+006 - # Exercise 6 - Sequence Slicing
+007 - # Exercise 7 - Sequence Slicing
+008 - # Exercise 8 - Negative Indexing
+009 - # Exercise 9 - Negative Slicing
+010 - # Exercise 10 - Sequence Item Picking
+011 - # Exercise 11 - Ranges
+012 - # Exercise 12 - More Ranges
+013 - # Exercise 13 - Ranges of Strings
+014 - # Exercise 14 - Removing Duplicates
+015 - # Exercise 15 - Simple Dictionary
+016 - # Exercise 16 - Accessing Dictionary Items
+017 - # Exercise 17 - Dictionary Items Sum Up
+018 - # Exercise 18 - KeyError
+019 - # Exercise 19 - Add Dictionary Key
+020 - # Exercise 20 - Apply Function to Dictionary Items
+021 - # Exercise 21 - Dictionary Filtering
+022 - # Exercise 22 - Formatted Print
+023 - # Exercise 23 - Multilevel Indexing
+024 - # Exercise 24 - Iterate Dictionary
+025 - # Exercise 25 - Print Alphabet
+026 - # Exercise 26 - Print Range
+027 - # Exercise 27 - Acceleration Calculator
+028 - # Exercise 28 - TypeError
+029 - # Exercise 29 - Liquid Volume Calculator
+030 - # Exercise 30 - Arguments
+031 - # Exercise 31 - Function Blueprint
+032 - # Exercise 32 - Global Variables
+033 - # Exercise 33 - Local Variables
+034 - # Exercise 34 - Local Vs. Global Variables
+035 - # Exercise 35 - String Splitter
+036 - # Exercise 36 - Word Counter
+037 - # Exercise 37 - Advanced Word Counter
+038 - # Exercise 38 - NameError
+039 - # Exercise 39 - Attribute Error
+040 - # Exercise 40 - TypeError
+041 - # Exercise 41 - Letters in File
+042 - # Exercise 42 - Iterating Multiple Sequences
+043 - # Exercise 43 - Letters Two by Two
+044 - # Exercise 44 - Letters Three by Three
+045 - # Exercise 45 - One File per Letter
+046 - # Exercise 46 - Letter Extractor
+047 - # Exercise 47 - Conditioned Letter Extractor
+048 - # Exercise 48 - IndentationError
+049 - # Exercise 49 - Pass
+050 - # Exercise 50 - Text Input
