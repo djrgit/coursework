@@ -55,3 +55,21 @@
 055 - # Exercise 55 - Adding to Multilevel Dictionaries
 056 - # Exercise 56 - Dictionary to JSON
 057 - # Exercise 57 - JSON to Dictionary
+058 - # Exercise 58 - Add to JSON
+059 - # Exercise 59 - Enumerator
+060 - # Exercise 60 - Infinite Printer
+061 - # Exercise 61 - Timed Printer
+062 - # Exercise 62 - Progressive Timed Printer
+063 - # Exercise 63 - Progressive Time Printer with Threshold
+064 - # Exercise 64 - Executing Next Statement
+065 - # Exercise 65 - Ignoring Next Statement
+066 - # Exercise 66 - Translator
+067 - # Exercise 67 - Advanced Translator
+068 - # Exercise 68 - User Friendly Translator
+069 - # Exercise 69 - Requests
+070 - # Exercise 70 - File from URL
+071 - # Exercise 71 - Letter Counter
+072 - # Exercise 72 - Google Searcher
+073 - # Exercise 73 - Data Multiplier
+074 - # Exercise 74 - File Concatenator
+075 - # Exercise 75 - Data Plotter
