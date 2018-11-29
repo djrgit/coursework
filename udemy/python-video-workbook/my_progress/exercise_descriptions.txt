@@ -48,3 +48,10 @@
 048 - # Exercise 48 - IndentationError
 049 - # Exercise 49 - Pass
 050 - # Exercise 50 - Text Input
+051 - # Exercise 51 - EOF
+052 - # Exercise 52 - String Formatting
+053 - # Exercise 53 - Multilevel Dictionary
+054 - # Exercise 54 - Modifying Multilevel Dictionaries
+055 - # Exercise 55 - Adding to Multilevel Dictionaries
+056 - # Exercise 56 - Dictionary to JSON
+057 - # Exercise 57 - JSON to Dictionary
