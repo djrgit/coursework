@@ -73,3 +73,28 @@
 073 - # Exercise 73 - Data Multiplier
 074 - # Exercise 74 - File Concatenator
 075 - # Exercise 75 - Data Plotter
+076 - # Exercise 76 - Date and Time Generator
+077 - # Exercise 77 - Year of Birth Calculator
+078 - # Exercise 78 - Password Generator
+079 - # Exercise 79 - Password Checker
+080 - # Exercise 80 - Advanced Password Checker
+081 - # Exercise 81 - Username and Password Checker
+082 - # Exercise 82 - Astronomy
+083 - # Exercise 83 - Monitor Size Detector
+084 - # Exercise 84 - Pyglet
+085 - # Exercise 85 - Data Cleaner
+086 - # Exercise 86 - Data Checker
+087 - # Exercise 87 - Add Missing Data
+088 - # Exercise 88 - Data Filter
+089 - # Exercise 89 - Database Filter
+090 - # Exercise 90 - Database to CSV Converter
+091 - # Exercise 91 - CSV to Database
+092 - # Exercise 92 - File Counter
+093 - # Exercise 93 - Recursive File Counter
+094 - # Exercise 94 - URL Cleaner
+095 - # Exercise 95 - Comma Separated Input
+096 - # Exercise 96 - File Writer
+097 - # Exercise 97 - Advanced File Writer
+098 - # Exercise 98 - Desktop GUI
+099 - # Exercise 99 - Data Writer Web App
+100 - # Exercise 100 - Username and Password Checker Web App
