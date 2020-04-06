@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding; utf-8 -*-
+# -*- coding: utf-8 -*-
 
 '''Extract datetimes from log entries and calculate the time
    between the first and last shutdown events'''
