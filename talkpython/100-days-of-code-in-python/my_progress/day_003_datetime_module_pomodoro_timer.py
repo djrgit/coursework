@@ -156,8 +156,8 @@ if __name__ == "__main__":
 	year = today.year
 	month = today.month
 	day = today.day
-	hour = 7
-	minute = 27
+	hour = 8
+	minute = 00
 	start = datetime(year, month, day, hour, minute)
 	while datetime.now() < start:
 		pass
