@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 import time
 from datetime import datetime
 from datetime import timedelta
@@ -132,9 +131,9 @@ class WorkdayPomodoros(Pomodoro, ExtendedBreak):
 		
 	def workday_start(self):
 
-		if self.cycles % 4 == 0:
+		if self.cycles % self.decrement == 0:
 			self.count = self.cycles
-			self.cycles = 4
+			self.cycles = self.decrement
 		else:
 			raise Exception
 
@@ -150,3 +149,17 @@ class WorkdayPomodoros(Pomodoro, ExtendedBreak):
 			
 			self._break = self._sbreak
 			self.cycles = self.decrement
+
+
+if __name__ == "__main__":
+	today = datetime.today()
+	year = today.year
+	month = today.month
+	day = today.day
+	hour = 7
+	minute = 27
+	start = datetime(year, month, day, hour, minute)
+	while datetime.now() < start:
+		pass
+	work = WorkdayPomodoros()
+	work.workday_start()
