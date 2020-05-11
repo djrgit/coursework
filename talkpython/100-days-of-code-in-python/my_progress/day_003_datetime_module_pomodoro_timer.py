@@ -61,10 +61,12 @@ class Focus(Timespan):  # add Task parent class later?
 
 	def focus_start(self):
 		self.set_timespan(self.focus)
+		print(datetime.now())
 		print("ENTERING a {}-minute FOCUS period...".format(self.get_timespan()))
 		self.alert_start(self.focus_alerts)
 
 	def focus_stop(self):
+		print(datetime.now())
 		print("LEAVING a {}-minute FOCUS period...".format(self.get_timespan()))
 
 
@@ -76,10 +78,12 @@ class Break(Timespan):
 
 	def break_start(self):
 		self.set_timespan(self._break)
+		print(datetime.now())
 		print("ENTERING a {}-minute BREAK period...".format(self.get_timespan()))
 		self.alert_start(self.break_alerts)
 
 	def break_stop(self):
+		print(datetime.now())
 		print("LEAVING a {}-minute break period...".format(self.get_timespan()))
 
 
@@ -120,14 +124,14 @@ class Pomodoro(ShortBreak, Focus):
 
 class WorkdayPomodoros(Pomodoro, ExtendedBreak):
 
-	def __init__(self, focus=25, _sbreak=5, _lbreak=30, count=16):
+	def __init__(self, focus=55, _sbreak=5, _lbreak=30, count=8):
 		super().__init__()
 		self.focus = focus
 		self._break = _sbreak
 		self._sbreak = _sbreak
 		self._lbreak = _lbreak
 		self.cycles = count
-		self.decrement = 4
+		self.decrement = 2
 		
 	def workday_start(self):
 
